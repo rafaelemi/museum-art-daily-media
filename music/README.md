@@ -28,3 +28,13 @@ snapped to the piece's actual beat grid (see `PIECE_BEAT_S` in `reel.py`).
 Uploaded tracks don't have a known tempo, so their Reels fall back to
 fixed-duration cut timing instead of beat-synced cuts. Nothing crashes
 either way — it's just a smaller visual-polish difference.
+
+**On licensing:** two real recordings are here as a working example —
+Randolph Hokanson's public-domain-composition performances (Beethoven
+Piano Sonata No. 27, Mendelssohn's "Spinner's Song"), sourced from
+Wikimedia Commons under CC BY-SA 2.0. That license requires attribution,
+which is why the performer name and license are baked right into the
+filename — since the filename becomes the credited caption line, that's
+attribution handled for free. If you add more tracks under a license that
+requires credit, do the same: put the credit directly in the filename
+rather than relying on a separate note that could get lost.
