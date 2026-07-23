@@ -193,5 +193,140 @@
       "baroque"
     ],
     "wiki_title": "Las Meninas"
+  },
+  {
+    "slug": "michelangelo_creation_of_adam_1512",
+    "file": "michelangelo_creation_of_adam_1512.jpg",
+    "title": "The Creation of Adam",
+    "artist_line": "Michelangelo, Italian, 1475\u20131564",
+    "date_display": "c. 1508\u20131512",
+    "museum_name": "Sistine Chapel, Vatican",
+    "museum_hashtag": "#sistinechapel",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "michelangelo",
+      "renaissance"
+    ],
+    "wiki_title": "The Creation of Adam"
+  },
+  {
+    "slug": "raphael_school_of_athens_1511",
+    "file": "raphael_school_of_athens_1511.jpg",
+    "title": "The School of Athens",
+    "artist_line": "Raphael, Italian, 1483\u20131520",
+    "date_display": "1509\u20131511",
+    "museum_name": "Vatican Museums",
+    "museum_hashtag": "#vaticanmuseums",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "raphael",
+      "renaissance"
+    ],
+    "wiki_title": "The School of Athens"
+  },
+  {
+    "slug": "van_eyck_arnolfini_portrait_1434",
+    "file": "van_eyck_arnolfini_portrait_1434.jpg",
+    "title": "The Arnolfini Portrait",
+    "artist_line": "Jan van Eyck, Flemish, c. 1390\u20131441",
+    "date_display": "1434",
+    "museum_name": "The National Gallery, London",
+    "museum_hashtag": "#nationalgallery",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "vaneyck",
+      "northernrenaissance"
+    ],
+    "wiki_title": "The Arnolfini Portrait"
+  },
+  {
+    "slug": "bruegel_hunters_in_the_snow_1565",
+    "file": "bruegel_hunters_in_the_snow_1565.jpg",
+    "title": "Hunters in the Snow",
+    "artist_line": "Pieter Bruegel the Elder, Flemish, c. 1525\u20131569",
+    "date_display": "1565",
+    "museum_name": "Kunsthistorisches Museum, Vienna",
+    "museum_hashtag": "#khmuseum",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "bruegel",
+      "northernrenaissance"
+    ],
+    "wiki_title": "Hunters in the Snow"
+  },
+  {
+    "slug": "caravaggio_calling_of_saint_matthew_1600",
+    "file": "caravaggio_calling_of_saint_matthew_1600.jpg",
+    "title": "The Calling of Saint Matthew",
+    "artist_line": "Caravaggio, Italian, 1571\u20131610",
+    "date_display": "1599\u20131600",
+    "museum_name": "San Luigi dei Francesi, Rome",
+    "museum_hashtag": "#baroqueart",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "caravaggio",
+      "baroque"
+    ],
+    "wiki_title": "The Calling of Saint Matthew (Caravaggio)"
+  },
+  {
+    "slug": "turner_fighting_temeraire_1839",
+    "file": "turner_fighting_temeraire_1839.jpg",
+    "title": "The Fighting Temeraire",
+    "artist_line": "J. M. W. Turner, British, 1775\u20131851",
+    "date_display": "1839",
+    "museum_name": "The National Gallery, London",
+    "museum_hashtag": "#nationalgallery",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "turner",
+      "romanticism"
+    ],
+    "wiki_title": "The Fighting Temeraire"
+  },
+  {
+    "slug": "goya_third_of_may_1808",
+    "file": "goya_third_of_may_1808.jpg",
+    "title": "The Third of May 1808",
+    "artist_line": "Francisco Goya, Spanish, 1746\u20131828",
+    "date_display": "1814",
+    "museum_name": "Museo del Prado",
+    "museum_hashtag": "#museodelprado",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "goya",
+      "romanticism"
+    ],
+    "wiki_title": "The Third of May 1808"
+  },
+  {
+    "slug": "cezanne_card_players_1892",
+    "file": "cezanne_card_players_1892.jpg",
+    "title": "The Card Players",
+    "artist_line": "Paul C\u00e9zanne, French, 1839\u20131906",
+    "date_display": "1892\u20131895",
+    "museum_name": "Mus\u00e9e d'Orsay",
+    "museum_hashtag": "#museeorsay",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "cezanne",
+      "postimpressionism"
+    ],
+    "wiki_title": "The Card Players"
+  },
+  {
+    "slug": "homer_the_gulf_stream_1899",
+    "file": "homer_the_gulf_stream_1899.jpg",
+    "title": "The Gulf Stream",
+    "artist_line": "Winslow Homer, American, 1836\u20131910",
+    "date_display": "1899",
+    "museum_name": "The Metropolitan Museum of Art",
+    "museum_hashtag": "#themetmuseum",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "winslowhomer",
+      "americanart"
+    ],
+    "wiki_title": "The Gulf Stream (painting)"
   }
 ]
