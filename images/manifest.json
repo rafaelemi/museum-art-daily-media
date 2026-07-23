@@ -3,72 +3,195 @@
     "slug": "monet_water_lilies_bridge_1899",
     "file": "monet_water_lilies_bridge_1899.jpg",
     "title": "Bridge over a Pond of Water Lilies",
-    "artist_line": "Claude Monet, French, 1840–1926",
+    "artist_line": "Claude Monet, French, 1840\u20131926",
     "date_display": "1899",
     "museum_name": "The Metropolitan Museum of Art",
     "museum_hashtag": "#themetmuseum",
     "credit_line": "Public domain",
-    "hashtag_terms": ["monet", "waterlilies"],
+    "hashtag_terms": [
+      "monet",
+      "waterlilies"
+    ],
     "wiki_title": "Bridge over a Pond of Water Lilies"
   },
   {
     "slug": "monet_four_trees_poplars_1891",
     "file": "monet_four_trees_poplars_1891.jpg",
     "title": "The Four Trees",
-    "artist_line": "Claude Monet, French, 1840–1926",
+    "artist_line": "Claude Monet, French, 1840\u20131926",
     "date_display": "1891",
     "museum_name": "The Metropolitan Museum of Art",
     "museum_hashtag": "#themetmuseum",
     "credit_line": "Public domain",
-    "hashtag_terms": ["monet", "poplars"],
+    "hashtag_terms": [
+      "monet",
+      "poplars"
+    ],
     "wiki_title": "Poplars (Monet series)"
   },
   {
     "slug": "van_gogh_starry_night_1889",
     "file": "van_gogh_starry_night_1889.jpg",
     "title": "The Starry Night",
-    "artist_line": "Vincent van Gogh, Dutch, 1853–1890",
+    "artist_line": "Vincent van Gogh, Dutch, 1853\u20131890",
     "date_display": "1889",
     "museum_name": "Museum of Modern Art",
     "museum_hashtag": "#moma",
     "credit_line": "Public domain",
-    "hashtag_terms": ["vangogh", "postimpressionism"],
+    "hashtag_terms": [
+      "vangogh",
+      "postimpressionism"
+    ],
     "wiki_title": "The Starry Night"
   },
   {
     "slug": "klimt_the_kiss_1908",
     "file": "klimt_the_kiss_1908.jpg",
     "title": "The Kiss",
-    "artist_line": "Gustav Klimt, Austrian, 1862–1918",
-    "date_display": "1907–1908",
+    "artist_line": "Gustav Klimt, Austrian, 1862\u20131918",
+    "date_display": "1907\u20131908",
     "museum_name": "Belvedere, Vienna",
     "museum_hashtag": "#belvederevienna",
     "credit_line": "Public domain",
-    "hashtag_terms": ["klimt", "artnouveau"],
+    "hashtag_terms": [
+      "klimt",
+      "artnouveau"
+    ],
     "wiki_title": "The Kiss (Klimt)"
   },
   {
     "slug": "hokusai_great_wave_1831",
     "file": "hokusai_great_wave_1831.jpg",
     "title": "The Great Wave off Kanagawa",
-    "artist_line": "Katsushika Hokusai, Japanese, 1760–1849",
+    "artist_line": "Katsushika Hokusai, Japanese, 1760\u20131849",
     "date_display": "c. 1831",
     "museum_name": "The Metropolitan Museum of Art",
     "museum_hashtag": "#themetmuseum",
     "credit_line": "Public domain",
-    "hashtag_terms": ["hokusai", "ukiyoe"],
+    "hashtag_terms": [
+      "hokusai",
+      "ukiyoe"
+    ],
     "wiki_title": "The Great Wave off Kanagawa"
   },
   {
     "slug": "vermeer_girl_pearl_earring_1665",
     "file": "vermeer_girl_pearl_earring_1665.jpg",
     "title": "Girl with a Pearl Earring",
-    "artist_line": "Johannes Vermeer, Dutch, 1632–1675",
+    "artist_line": "Johannes Vermeer, Dutch, 1632\u20131675",
     "date_display": "c. 1665",
     "museum_name": "Mauritshuis, The Hague",
     "museum_hashtag": "#mauritshuis",
     "credit_line": "Public domain",
-    "hashtag_terms": ["vermeer", "dutchgoldenage"],
+    "hashtag_terms": [
+      "vermeer",
+      "dutchgoldenage"
+    ],
     "wiki_title": "Girl with a Pearl Earring"
+  },
+  {
+    "slug": "da_vinci_mona_lisa_1503",
+    "file": "da_vinci_mona_lisa_1503.jpg",
+    "title": "Mona Lisa",
+    "artist_line": "Leonardo da Vinci, Italian, 1452\u20131519",
+    "date_display": "c. 1503\u20131519",
+    "museum_name": "Mus\u00e9e du Louvre",
+    "museum_hashtag": "#louvre",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "davinci",
+      "renaissance"
+    ],
+    "wiki_title": "Mona Lisa"
+  },
+  {
+    "slug": "botticelli_birth_of_venus_1485",
+    "file": "botticelli_birth_of_venus_1485.jpg",
+    "title": "The Birth of Venus",
+    "artist_line": "Sandro Botticelli, Italian, 1445\u20131510",
+    "date_display": "c. 1485",
+    "museum_name": "Uffizi Gallery, Florence",
+    "museum_hashtag": "#uffizigallery",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "botticelli",
+      "renaissance"
+    ],
+    "wiki_title": "The Birth of Venus"
+  },
+  {
+    "slug": "munch_the_scream_1893",
+    "file": "munch_the_scream_1893.jpg",
+    "title": "The Scream",
+    "artist_line": "Edvard Munch, Norwegian, 1863\u20131944",
+    "date_display": "1893",
+    "museum_name": "National Gallery of Norway",
+    "museum_hashtag": "#nationalmuseumnorway",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "munch",
+      "expressionism"
+    ],
+    "wiki_title": "The Scream"
+  },
+  {
+    "slug": "seurat_la_grande_jatte_1884",
+    "file": "seurat_la_grande_jatte_1884.jpg",
+    "title": "A Sunday on La Grande Jatte",
+    "artist_line": "Georges Seurat, French, 1859\u20131891",
+    "date_display": "1884\u20131886",
+    "museum_name": "The Art Institute of Chicago",
+    "museum_hashtag": "#artinstitutechi",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "seurat",
+      "pointillism"
+    ],
+    "wiki_title": "A Sunday Afternoon on the Island of La Grande Jatte"
+  },
+  {
+    "slug": "rembrandt_night_watch_1642",
+    "file": "rembrandt_night_watch_1642.jpg",
+    "title": "The Night Watch",
+    "artist_line": "Rembrandt van Rijn, Dutch, 1606\u20131669",
+    "date_display": "1642",
+    "museum_name": "Rijksmuseum",
+    "museum_hashtag": "#rijksmuseum",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "rembrandt",
+      "dutchgoldenage"
+    ],
+    "wiki_title": "The Night Watch"
+  },
+  {
+    "slug": "hiroshige_shin_ohashi_bridge_1857",
+    "file": "hiroshige_shin_ohashi_bridge_1857.jpg",
+    "title": "Sudden Shower over Shin-\u014chashi Bridge and Atake",
+    "artist_line": "Utagawa Hiroshige, Japanese, 1797\u20131858",
+    "date_display": "1857",
+    "museum_name": "The Metropolitan Museum of Art",
+    "museum_hashtag": "#themetmuseum",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "hiroshige",
+      "ukiyoe"
+    ],
+    "wiki_title": "One Hundred Famous Views of Edo"
+  },
+  {
+    "slug": "velazquez_las_meninas_1656",
+    "file": "velazquez_las_meninas_1656.jpg",
+    "title": "Las Meninas",
+    "artist_line": "Diego Vel\u00e1zquez, Spanish, 1599\u20131660",
+    "date_display": "1656",
+    "museum_name": "Museo del Prado",
+    "museum_hashtag": "#museodelprado",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "velazquez",
+      "baroque"
+    ],
+    "wiki_title": "Las Meninas"
   }
 ]
