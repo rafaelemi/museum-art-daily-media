@@ -328,5 +328,125 @@
       "americanart"
     ],
     "wiki_title": "The Gulf Stream (painting)"
+  },
+  {
+    "slug": "manet_bar_folies_bergere_1882",
+    "file": "manet_bar_folies_bergere_1882.jpg",
+    "title": "A Bar at the Folies-Berg\u00e8re",
+    "artist_line": "\u00c9douard Manet, French, 1832\u20131883",
+    "date_display": "1882",
+    "museum_name": "The Courtauld Gallery, London",
+    "museum_hashtag": "#courtauldgallery",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "manet",
+      "impressionism"
+    ],
+    "wiki_title": "A Bar at the Folies-Berg\u00e8re"
+  },
+  {
+    "slug": "renoir_luncheon_boating_party_1881",
+    "file": "renoir_luncheon_boating_party_1881.jpg",
+    "title": "Luncheon of the Boating Party",
+    "artist_line": "Pierre-Auguste Renoir, French, 1841\u20131919",
+    "date_display": "1880\u20131881",
+    "museum_name": "The Phillips Collection",
+    "museum_hashtag": "#phillipscollection",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "renoir",
+      "impressionism"
+    ],
+    "wiki_title": "Luncheon of the Boating Party"
+  },
+  {
+    "slug": "titian_bacchus_and_ariadne_1523",
+    "file": "titian_bacchus_and_ariadne_1523.jpg",
+    "title": "Bacchus and Ariadne",
+    "artist_line": "Titian, Italian, c. 1488\u20131576",
+    "date_display": "1520\u20131523",
+    "museum_name": "The National Gallery, London",
+    "museum_hashtag": "#nationalgallery",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "titian",
+      "renaissance"
+    ],
+    "wiki_title": "Bacchus and Ariadne"
+  },
+  {
+    "slug": "courbet_burial_at_ornans_1850",
+    "file": "courbet_burial_at_ornans_1850.jpg",
+    "title": "A Burial at Ornans",
+    "artist_line": "Gustave Courbet, French, 1819\u20131877",
+    "date_display": "1849\u20131850",
+    "museum_name": "Mus\u00e9e d'Orsay",
+    "museum_hashtag": "#museeorsay",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "courbet",
+      "realism"
+    ],
+    "wiki_title": "A Burial at Ornans"
+  },
+  {
+    "slug": "david_napoleon_crossing_alps_1801",
+    "file": "david_napoleon_crossing_alps_1801.jpg",
+    "title": "Napoleon Crossing the Alps",
+    "artist_line": "Jacques-Louis David, French, 1748\u20131825",
+    "date_display": "1801",
+    "museum_name": "Ch\u00e2teau de Malmaison",
+    "museum_hashtag": "#neoclassicism",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "jacqueslouisdavid",
+      "neoclassicism"
+    ],
+    "wiki_title": "Napoleon Crossing the Alps"
+  },
+  {
+    "slug": "el_greco_view_of_toledo_1599",
+    "file": "el_greco_view_of_toledo_1599.jpg",
+    "title": "View of Toledo",
+    "artist_line": "El Greco, Greek-Spanish, 1541\u20131614",
+    "date_display": "c. 1599\u20131600",
+    "museum_name": "The Metropolitan Museum of Art",
+    "museum_hashtag": "#themetmuseum",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "elgreco",
+      "mannerism"
+    ],
+    "wiki_title": "View of Toledo"
+  },
+  {
+    "slug": "gentileschi_judith_slaying_holofernes_1620",
+    "file": "gentileschi_judith_slaying_holofernes_1620.jpg",
+    "title": "Judith Slaying Holofernes",
+    "artist_line": "Artemisia Gentileschi, Italian, 1593\u2013c. 1656",
+    "date_display": "c. 1614\u20131620",
+    "museum_name": "Museo di Capodimonte, Naples",
+    "museum_hashtag": "#baroqueart",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "gentileschi",
+      "baroque"
+    ],
+    "wiki_title": "Judith Slaying Holofernes (Gentileschi, Naples)"
+  },
+  {
+    "slug": "constable_the_hay_wain_1821",
+    "file": "constable_the_hay_wain_1821.jpg",
+    "title": "The Hay Wain",
+    "artist_line": "John Constable, British, 1776\u20131837",
+    "date_display": "1821",
+    "museum_name": "The National Gallery, London",
+    "museum_hashtag": "#nationalgallery",
+    "credit_line": "Public domain",
+    "hashtag_terms": [
+      "constable",
+      "romanticism"
+    ],
+    "wiki_title": "The Hay Wain"
   }
 ]
